@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **zeel2163@gmail.com**
 
-- ⚡ Fun fact **I like to explore and spy on successful people.**
+- ⚡ Fun fact **I like to explore and Studying the strategies of successful leaders in my field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
