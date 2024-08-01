@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Django and python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeel2163&label=Profile%20views&color=0e75b6&style=flat" alt="zeel2163" /> </p>
+<p style="text-align: center;"> 
+    <img src="https://komarev.com/ghpvc/?username=zeel2163&label=Profile%20views&color=0e75b6&style=flat" alt="zeel2163" /> 
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/zeel2163" target="blank"><img src="https://img.shields.io/twitter/follow/zeel2163?logo=twitter&style=for-the-badge" alt="zeel2163" /></a> </p>
 
