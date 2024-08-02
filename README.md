@@ -39,7 +39,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Zaylen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Zaylen" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeel2163&show_icons=true&locale=en" alt="zeel2163" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeel2163&" alt="zeel2163" /></p>
 
