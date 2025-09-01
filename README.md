@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/zeel2163" target="blank"><img src="https://img.shields.io/twitter/follow/zeel2163?logo=twitter&style=for-the-badge" alt="zeel2163" /></a> </p>
 
-- 🔭 I’m currently working on **Gym membership in django framework**
+- 🔭 I’m currently working on **Ai agents**
 
 - 🌱 I’m currently learning **Django(Advanced level), Flask(Intermediate)**
 
